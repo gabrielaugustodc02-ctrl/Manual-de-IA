@@ -1,0 +1,5 @@
+{
+  "name": "Manual Técnico de Inteligência Artificial",
+  "description": "Um guia aprofundado e didático sobre as principais IAs do mercado, suas tecnologias, capacidades e aplicações práticas.",
+  "requestFramePermissions": ["microphone"]
+}
